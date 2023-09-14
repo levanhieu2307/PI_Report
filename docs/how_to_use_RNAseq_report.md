@@ -1,6 +1,6 @@
 # How to interpret the RNAseq report
 
-This document describes how to understand the RNAseq bioinformatics report delivered to you by Pacific informatics. Most of the plots are taken from the [sample report](https://zymo-research.github.io/service-pipeline-documentation/reports/RNAseq_sample_report.html). The plots in your report might look a little different.
+This document describes how to understand the RNAseq bioinformatics report delivered to you by Pacific informatics. Most of the plots are taken from the [sample report](https://raw.githack.com/levanhieu2307/PI_Report/main/reports/RNAseq_sample_report.html). The plots in your report might look a little different.
 
 ## Table of contents
 
